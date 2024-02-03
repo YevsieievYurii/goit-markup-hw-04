@@ -456,7 +456,7 @@ align-items: baseline;
 margin-right: 120px;
 }
 
-.fotter-soc {
+.footer-soc-text {
 font-weight: 500;
 font-style: 16px;
 line-height: 1.5;
@@ -518,7 +518,7 @@ fill: #f4f4fd;
 }
 
 .footer-text {
-    display: block;
+    display: flex;
     width: 264px;
     height: 72px;
     color: #F4F4FD;
